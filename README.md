@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This project features a Decision Tree classifier designed to predict the species of Iris flowers based on their characteristics. The Iris dataset is a classic in machine learning, comprising 150 samples with four features: sepal length, sepal width, petal length, and petal width. The dataset is divided into three species classes of Iris flowers.
+This project features a Decision Tree classifier designed to predict the species of Iris flowers based on their characteristics. The Iris dataset is a classic in machine learning, comprising  samples with four features: sepal length, sepal width, petal length, and petal width. The dataset is divided into three species classes of Iris flowers.
 
 ## 📋 Table of Contents
 
